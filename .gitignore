@@ -1,0 +1,21 @@
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Data files (Do not commit sensitive lease data)
+*.pdf
+*.csv
+*.xlsx
+*.json
+data/raw_pdfs/*
+!data/raw_pdfs/.gitkeep
