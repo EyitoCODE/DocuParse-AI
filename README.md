@@ -1,5 +1,5 @@
 # DocuParse AI: Intelligent Lease Document Extractor
-
+![AI Parse Demo](Parse_demo.png) 
 ## Overview
 An automated pipeline that ingests unstructured property lease agreements (PDFs), utilizes OCR for text extraction, and leverages GPT-based models to output structured, queryable data (JSON/CSV).
 
